@@ -5,10 +5,11 @@ This project involved creating a dynamic, interactive dashboard for a coffee sho
 
 ## Key Features:
 
-Total Revenue by Month: Trends in monthly earnings for the business.
-Transaction Insights: Visualization of transactions by day and hour, providing a deep understanding of customer behavior.
-Product Category Analysis: Displays transaction counts and revenue for different product types, helping to identify top performers.
-Location-Based Filters: Enables filtering insights based on store location.
+**Total Revenue by Month:** Trends in monthly earnings for the business. <BR/>
+**Transaction Insights:** Visualization of transactions by day and hour, providing a deep understanding of customer behavior. <BR/>
+**Product Category Analysis:** Displays transaction counts and revenue for different product types, helping to identify top performers.<BR/>
+**Location-Based Filters:** Enables filtering insights based on store location.
+
 This dashboard is designed to empower the business with actionable insights to drive growth and efficiency.
 
 Live Dashboard : https://mavenanalytics.io/project/20995
